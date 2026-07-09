@@ -1,0 +1,11 @@
+PS C:\Users\indra> D:\Projects\Powershel\ServerDashboard.ps1
+
+Hostname: LAPTOP-L0CNDLE7
+Operating System : Microsoft Windows 11 Home Single Language
+System is Up for 1 days 9 hours 46 minutes
+Total Memory : 7 GB 803 MB 312 KB
+Free Memory : 1 GB 859 MB 272 KB
+Memory Usage: 76.37%
+C: Total Space: 200.00GB  Free-Space: 97.21  Disk Usage: 51.39 %
+D: Total Space: 264.65GB  Free-Space: 156.09  Disk Usage: 41.02 %
+CPU Usage : 8%
